@@ -7,7 +7,7 @@ This work demonstrates a significant improvement over our previous model, ImpSGN
  
 
 <div align=center>
-<img src="https://github.com/acvai/impSGNv2/blob/master/images/SOTA_comparison.png" width = 50% height = 50% div align=center>
+<img src="https://github.com/acvai/impSGNv2/blob/master/images/SOTA_comparison.PNG" width = 50% height = 50% div align=center>
 </div>
 
 Figure 1: The Cross-Subject (CS) benchmark of NTU-RGB+D 60 evaluates accuracy and network size (number of learning parameters). ImpSGNv2 excels with strong performance and a compact design.
@@ -15,7 +15,7 @@ Figure 1: The Cross-Subject (CS) benchmark of NTU-RGB+D 60 evaluates accuracy an
 
 
 ## Framework
-![image](https://github.com/acvai/impSGNv2/blob/master/images/ImpSGNv2.png)
+![image](https://github.com/acvai/impSGNv2/blob/master/images/ImpSGNv2.PNG)
 
 Figure 2: Framework of the proposed end-to-end ImpSGNv2 model, consisting of a single stream with multiple SAT blocks. TheEmbed module encodes joint dynamics by integrating position (Pos), velocity (Vel), and bone features (Bone). Each SAT Blocksequentially applies a Spatial-with-self-Attention module followed by a Temporal module.
 
