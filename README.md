@@ -15,7 +15,6 @@ Figure 1: The Cross-Subject (CS) benchmark of NTU-RGB+D 60 evaluates accuracy an
 
 
 ## Framework
-![image](https://github.com/acvai/impSGNv2/tree/main/images/ImpSGNv2.PNG)
 ![Framework](images/ImpSGNv2.png)
 
 
