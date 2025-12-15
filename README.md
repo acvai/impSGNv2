@@ -6,9 +6,9 @@ A critical challenge in skeleton-based action recognition lies in effectively ex
 This work demonstrates a significant improvement over our previous model, ImpSGN, by extracting more discriminative spatial and temporal features, all while reducing the number of parameters by 60\%
  
 
-<div align=center>
+
 ![Framework](images/SOTA_comparison.png)
-</div>
+
 
 Figure 1: The Cross-Subject (CS) benchmark of NTU-RGB+D 60 evaluates accuracy and network size (number of learning parameters). ImpSGNv2 excels with strong performance and a compact design.
 
